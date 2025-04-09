@@ -64,6 +64,9 @@ Walmart generates vast amounts of transactional data. To make better business de
 
 ## 📷 Dashboard Preview
 
+![Walmart Dashboard](Walmart_2011-2015.jpg)
+
+
 
 ## 📬 Contact
 For any queries, contact: **Kenis Glanen Doss Arockia Diviyanathan**  
