@@ -62,6 +62,9 @@ Walmart generates vast amounts of transactional data. To make better business de
 - `Walmart_2011-2015.pbix` - Power BI Dashboard
 - `Walmart.xlsx` - Raw data source
 
+## 📷 Dashboard Preview
+
+
 ## 📬 Contact
 For any queries, contact: **Kenis Glanen Doss Arockia Diviyanathan**  
 📧 Email: kenglanen@gmail.com  
